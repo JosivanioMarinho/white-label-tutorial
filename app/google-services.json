@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "251373449174",
+    "project_id": "white-label-tutorial-f2679",
+    "storage_bucket": "white-label-tutorial-f2679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251373449174:android:b9158ac40c443e252dbe77",
+        "android_client_info": {
+          "package_name": "br.com.fulano.whitelabeltutorial.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEG5MOiR0xwUSvYf47494z8rlOARguVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251373449174:android:d38b459376fc7ff72dbe77",
+        "android_client_info": {
+          "package_name": "br.com.fulano.whitelabeltutorial.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEG5MOiR0xwUSvYf47494z8rlOARguVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251373449174:android:a45f77ffbfb674362dbe77",
+        "android_client_info": {
+          "package_name": "br.com.fulano.whitelabeltutorial.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEG5MOiR0xwUSvYf47494z8rlOARguVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251373449174:android:f38be268e90351922dbe77",
+        "android_client_info": {
+          "package_name": "br.com.fulano.whitelabeltutorial.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEG5MOiR0xwUSvYf47494z8rlOARguVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251373449174-qh23le5vak3bqcrueb5hj0ik012qd2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
